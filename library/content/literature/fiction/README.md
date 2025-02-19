@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 52/100
+Total Books Downloaded: 53/100
 
 ## Downloaded Books
 
@@ -418,6 +418,14 @@ Total Books Downloaded: 52/100
 52. The Adventures of Sherlock Holmes by Arthur Conan Doyle
     - Author: Arthur Conan Doyle
     - Release Date: November 29, 2002 [eBook #1661]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+53. The Iliad by Homer
+    - Author: Homer
+    - Release Date: March 1, 2004 [eBook #6130]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
