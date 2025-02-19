@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 45/100
+Total Books Downloaded: 46/100
 
 ## Downloaded Books
 
@@ -364,5 +364,13 @@ Total Books Downloaded: 45/100
     - Release Date: December 15, 2014 [eBook #47629]
     - Last Updated: January 25, 2024
     - Language: Tagalog
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+46. Noli Me Tangere by José Rizal
+    - Author: José Rizal
+    - Release Date: December 22, 2006 [eBook #20228]
+    - Last Updated: January 26, 2024
+    - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
