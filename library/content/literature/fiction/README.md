@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 42/100
+Total Books Downloaded: 43/100
 
 ## Downloaded Books
 
@@ -339,6 +339,14 @@ Total Books Downloaded: 42/100
     - Author: Friedrich Wilhelm Nietzsche
     - Release Date: June 1, 1999 [eBook #1998]
     - Last Updated: February 6, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+43. The Brothers Karamazov by Fyodor Dostoyevsky
+    - Author: Fyodor Dostoyevsky
+    - Release Date: February 12, 2009 [eBook #28054]
+    - Last Updated: January 15, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
