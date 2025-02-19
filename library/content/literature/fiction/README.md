@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 24/100
+Total Books Downloaded: 25/100
 
 ## Downloaded Books
 
@@ -195,6 +195,14 @@ Total Books Downloaded: 24/100
     - Author: Mark Twain
     - Release Date: June 29, 2004 [eBook #76]
     - Last Updated: February 7, 2025
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+25. History of Tom Jones, a Foundling by Henry Fielding
+    - Author: Henry Fielding
+    - Release Date: March 1, 2004 [eBook #6593]
+    - Last Updated: January 15, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
