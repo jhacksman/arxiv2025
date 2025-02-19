@@ -2,6 +2,11 @@
 
 ## Categories
 
+### Historical Documents
+- Primary historical sources
+- Historical treatises and documents
+- Social and cultural documentation
+
 ### Classics
 - Historical works of significant literary merit
 - Works that have stood the test of time
