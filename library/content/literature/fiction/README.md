@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 80/100
+Total Books Downloaded: 81/100
 
 ## Downloaded Books
 
@@ -642,6 +642,14 @@ Total Books Downloaded: 80/100
 80. Her own people by B. M. Croker
     - Author: B. M. Croker
     - Release Date: February 1, 2024 [eBook #75402]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+81. On Liberty by John Stuart Mill
+    - Author: John Stuart Mill
+    - Release Date: January 10, 2011 [eBook #34901]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
