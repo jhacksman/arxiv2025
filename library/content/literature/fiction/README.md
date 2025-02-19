@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 29/100
+Total Books Downloaded: 30/100
 
 ## Downloaded Books
 
@@ -235,6 +235,14 @@ Total Books Downloaded: 29/100
     - Author: Bram Stoker
     - Release Date: August 16, 2013 [eBook #345]
     - Last Updated: February 8, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+30. Crime and Punishment by Fyodor Dostoyevsky
+    - Author: Fyodor Dostoyevsky
+    - Release Date: March 28, 2006 [eBook #2554]
+    - Last Updated: February 12, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
