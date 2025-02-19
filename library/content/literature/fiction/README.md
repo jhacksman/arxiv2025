@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 91/100
+Total Books Downloaded: 92/100
 
 ## Downloaded Books
 
@@ -730,6 +730,14 @@ Total Books Downloaded: 91/100
 91. Don Quixote by Miguel de Cervantes Saavedra
     - Author: Miguel de Cervantes Saavedra
     - Release Date: July 27, 1997 [eBook #996]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+92. Meditations by Emperor of Rome Marcus Aurelius
+    - Author: Marcus Aurelius
+    - Release Date: December 1, 2000 [eBook #2680]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
