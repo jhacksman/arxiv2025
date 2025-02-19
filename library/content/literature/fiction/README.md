@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 22/100
+Total Books Downloaded: 23/100
 
 ## Downloaded Books
 
@@ -179,6 +179,14 @@ Total Books Downloaded: 22/100
     - Author: Nathaniel Hawthorne
     - Release Date: May 5, 2008 [eBook #25344]
     - Last Updated: October 19, 2021
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+23. The Expedition of Humphry Clinker by T. Smollett
+    - Author: T. Smollett
+    - Release Date: April 1, 2000 [eBook #2160]
+    - Last Updated: January 27, 2021
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
