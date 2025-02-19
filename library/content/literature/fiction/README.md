@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 33/100
+Total Books Downloaded: 34/100
 
 ## Downloaded Books
 
@@ -267,6 +267,14 @@ Total Books Downloaded: 33/100
     - Author: Charles Dickens
     - Release Date: July 1, 1998 [eBook #1400]
     - Last Updated: February 14, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+34. A Tale of Two Cities by Charles Dickens
+    - Author: Charles Dickens
+    - Release Date: January 1, 1994 [eBook #98]
+    - Last Updated: February 16, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
