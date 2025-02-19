@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 48/100
+Total Books Downloaded: 49/100
 
 ## Downloaded Books
 
@@ -388,5 +388,13 @@ Total Books Downloaded: 48/100
     - Release Date: January 1, 1998 [eBook #1184]
     - Last Updated: January 26, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+49. 呻吟語 by Kun Lü
+    - Author: Kun Lü
+    - Release Date: May 23, 2008 [eBook #25558]
+    - Last Updated: January 26, 2024
+    - Language: Chinese
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
