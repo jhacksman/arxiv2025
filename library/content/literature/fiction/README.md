@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 17/100
+Total Books Downloaded: 18/100
 
 ## Downloaded Books
 
@@ -139,6 +139,14 @@ Total Books Downloaded: 17/100
     - Author: Jonathan Swift
     - Release Date: October 1, 1997 [eBook #1080]
     - Last Updated: March 10, 2021
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+18. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+    - Author: Robert Louis Stevenson
+    - Release Date: June 27, 2008 [eBook #43]
+    - Last Updated: November 9, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
