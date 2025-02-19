@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 98/100
+Total Books Downloaded: 99/100
 
 ## Downloaded Books
 
@@ -786,6 +786,14 @@ Total Books Downloaded: 98/100
 98. Le Morte d'Arthur: Volume 1 by Sir Thomas Malory
     - Author: Sir Thomas Malory
     - Release Date: March 1, 1994 [eBook #1251]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+99. The Problems of Philosophy by Bertrand Russell
+    - Author: Bertrand Russell
+    - Release Date: May 1, 2004 [eBook #5827]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
