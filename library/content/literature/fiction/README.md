@@ -43,3 +43,11 @@ This directory contains manually downloaded books from Project Gutenberg's top 1
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
+
+6. Alice's Adventures in Wonderland by Lewis Carroll
+   - Author: Lewis Carroll
+   - Release Date: June 27, 2008 [eBook #11]
+   - Last Updated: November 10, 2024
+   - Language: English
+   - Download Date: February 19, 2025
+   - Format: Plain Text UTF-8
