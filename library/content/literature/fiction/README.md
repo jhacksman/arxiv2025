@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 14/100
+Total Books Downloaded: 15/100
 
 ## Downloaded Books
 
@@ -115,6 +115,14 @@ Total Books Downloaded: 14/100
     - Author: Oscar Wilde
     - Release Date: March 1, 1997 [eBook #844]
     - Last Updated: February 13, 2021
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+15. The Blue Castle by L. M. Montgomery
+    - Author: L. M. Montgomery
+    - Release Date: May 3, 2022 [eBook #67979]
+    - Last Updated: July 14, 2023
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
