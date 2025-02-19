@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 44/100
+Total Books Downloaded: 45/100
 
 ## Downloaded Books
 
@@ -356,5 +356,13 @@ Total Books Downloaded: 44/100
     - Release Date: March 19, 2004 [eBook #7370]
     - Last Updated: February 6, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+45. Ang "Filibusterismo" by José Rizal
+    - Author: José Rizal
+    - Release Date: December 15, 2014 [eBook #47629]
+    - Last Updated: January 25, 2024
+    - Language: Tagalog
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
