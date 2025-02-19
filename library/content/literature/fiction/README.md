@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 62/100
+Total Books Downloaded: 63/100
 
 ## Downloaded Books
 
@@ -498,6 +498,14 @@ Total Books Downloaded: 62/100
 62. Beowulf: An Anglo-Saxon Epic Poem
     - Author: Anonymous
     - Release Date: July 19, 2005 [eBook #16328]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+63. Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau
+    - Author: Henry David Thoreau
+    - Release Date: January 1, 1995 [eBook #205]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
