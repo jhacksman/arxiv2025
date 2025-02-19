@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 55/100
+Total Books Downloaded: 56/100
 
 ## Downloaded Books
 
@@ -442,6 +442,14 @@ Total Books Downloaded: 55/100
 55. Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass
     - Author: Frederick Douglass
     - Release Date: January 10, 2006 [eBook #23]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+56. Ulysses by James Joyce
+    - Author: James Joyce
+    - Release Date: October 1, 2001 [eBook #4300]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
