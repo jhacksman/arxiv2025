@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 16/100
+Total Books Downloaded: 17/100
 
 ## Downloaded Books
 
@@ -131,6 +131,14 @@ Total Books Downloaded: 16/100
     - Author: Elizabeth Von Arnim
     - Release Date: July 29, 2005 [eBook #16389]
     - Last Updated: June 25, 2023
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+17. A Modest Proposal by Jonathan Swift
+    - Author: Jonathan Swift
+    - Release Date: October 1, 1997 [eBook #1080]
+    - Last Updated: March 10, 2021
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
