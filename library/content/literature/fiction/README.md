@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 12/100
+Total Books Downloaded: 13/100
 
 ## Downloaded Books
 
@@ -99,6 +99,14 @@ Total Books Downloaded: 12/100
     - Author: Louisa May Alcott
     - Release Date: August 16, 2011 [eBook #37106]
     - Last Updated: May 22, 2023
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+13. The Picture of Dorian Gray by Oscar Wilde
+    - Author: Oscar Wilde
+    - Release Date: October 1, 1994 [eBook #174]
+    - Last Updated: September 18, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
