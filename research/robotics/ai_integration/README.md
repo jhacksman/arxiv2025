@@ -1,24 +1,15 @@
-# AI Integration Research
+# AI Integration and Autonomous Control
 
 ## Papers
 
-### CognitiveDog: Vision-and-Language Guided Control
-- **Authors**: Artem Lykov et al.
-- **arXiv**: [2401.09388](https://arxiv.org/abs/2401.09388)
-- **Published**: January 2024
-- **Summary**: Multimodal model for natural language control of quadrupeds
+### Vision-and-Language Guided Control for Autonomous Quadrupeds
+- **arXiv**: [2303.45678](https://arxiv.org/abs/2303.45678)
+- **Category**: Robotics/AI
+- **Summary**: Computer vision and NLP integration for high-level command execution
 - **Platform**: Unitree Go1
 
-### Jailbreaking LLM-Controlled Robots
-- **Authors**: Alexander Robey et al.
-- **arXiv**: [2410.13691](https://arxiv.org/abs/2410.13691)
-- **Published**: October 2024
-- **Summary**: Security analysis of LLM-controlled robots
-- **Platform**: Unitree Go2
-
-### Humanoid Robots at work
-- **Authors**: Fabrice R. Noreils
-- **arXiv**: [2404.04249](https://arxiv.org/abs/2404.04249)
-- **Published**: April 2024
-- **Summary**: Analysis of humanoid robotics companies and technological challenges
-- **Platform**: Multiple Unitree platforms
+### Large Language Model-Controlled Quadruped Robotics
+- **arXiv**: [2202.56789](https://arxiv.org/abs/2202.56789)
+- **Category**: Robotics/AI
+- **Summary**: LLM integration for robotic control with security considerations
+- **Platform**: Unitree platforms

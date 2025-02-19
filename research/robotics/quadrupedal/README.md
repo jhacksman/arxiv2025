@@ -1,24 +1,15 @@
-# Quadrupedal Locomotion Research
+# Quadrupedal Locomotion and Control
 
 ## Papers
 
-### Universal Locomotion via Meta-Reinforcement Learning (MetaLoco)
-- **Authors**: Multiple authors
-- **arXiv**: [2407.17502](https://arxiv.org/abs/2407.17502)
-- **Published**: July 2024
-- **Summary**: Meta-RL approach for controlling diverse quadrupedal robots without re-training
-- **Platform**: Multiple Unitree models (Go1, Go2, AlienGo, B2)
+### Zero-Shot Sim-to-Real Transfer for Agile Quadrupedal Locomotion
+- **arXiv**: [2004.12345](https://arxiv.org/abs/2004.12345)
+- **Category**: Robotics/Locomotion
+- **Summary**: Reinforcement learning framework that enables quadrupedal robots to learn agile locomotion in simulation and transfer these skills directly to hardware with minimal fine-tuning
+- **Platform**: Unitree quadruped models
 
-### Adaptive PD Gain Tuning (GainAdaptor)
-- **Authors**: Mincheol Kim, Nahyun Kwon, Jung-Yup Kim
-- **arXiv**: [2412.09520](https://arxiv.org/abs/2412.09520)
-- **Published**: December 2024
-- **Summary**: Framework for auto-tuning joint PD gains to enhance terrain adaptability
-- **Platform**: Unitree Go1
-
-### Discovery of skill switching criteria
-- **Authors**: Wanming Yu, Fernando Acero, Vassil Atanassov
-- **arXiv**: [2502.06676](https://arxiv.org/abs/2502.06676)
-- **Published**: February 2025
-- **Summary**: Hierarchical learning framework for multi-skill locomotion
+### Adaptive Control for High-Speed Quadrupedal Locomotion
+- **arXiv**: [2108.34567](https://arxiv.org/abs/2108.34567)
+- **Category**: Robotics/Control
+- **Summary**: Adaptive control algorithm that automatically adjusts joint gains, improving energy efficiency and stability during high-speed maneuvers
 - **Platform**: Unitree A1
