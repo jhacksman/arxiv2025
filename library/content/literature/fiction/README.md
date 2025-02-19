@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 79/100
+Total Books Downloaded: 80/100
 
 ## Downloaded Books
 
@@ -634,6 +634,14 @@ Total Books Downloaded: 79/100
 79. Plays by Susan Glaspell
     - Author: Susan Glaspell
     - Release Date: January 1, 2004 [eBook #10623]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+80. Her own people by B. M. Croker
+    - Author: B. M. Croker
+    - Release Date: February 1, 2024 [eBook #75402]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
