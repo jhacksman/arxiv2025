@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 20/100
+Total Books Downloaded: 21/100
 
 ## Downloaded Books
 
@@ -163,6 +163,14 @@ Total Books Downloaded: 20/100
     - Author: Elizabeth Cleghorn Gaskell
     - Release Date: January 1, 1996 [eBook #394]
     - Last Updated: October 29, 2022
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+21. The Adventures of Ferdinand Count Fathom by T. Smollett
+    - Author: T. Smollett
+    - Release Date: September 9, 2004 [eBook #6761]
+    - Last Updated: October 30, 2022
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
