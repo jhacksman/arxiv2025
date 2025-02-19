@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 50/100
+Total Books Downloaded: 51/100
 
 ## Downloaded Books
 
@@ -402,6 +402,14 @@ Total Books Downloaded: 50/100
 50. The Republic by Plato
     - Author: Plato
     - Release Date: November 1, 1998 [eBook #1497]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+51. War and Peace by Leo Tolstoy
+    - Author: Leo Tolstoy
+    - Release Date: April 1, 2001 [eBook #2600]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
