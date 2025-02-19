@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 89/100
+Total Books Downloaded: 90/100
 
 ## Downloaded Books
 
@@ -714,6 +714,14 @@ Total Books Downloaded: 89/100
 89. The divine comedy by Dante Alighieri
     - Author: Dante Alighieri
     - Release Date: August 1, 2003 [eBook #8800]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+90. Hamlet, Prince of Denmark by William Shakespeare
+    - Author: William Shakespeare
+    - Release Date: January 1, 1999 [eBook #27761]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
