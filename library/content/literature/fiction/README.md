@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 7/100
+Total Books Downloaded: 8/100
 
 ## Downloaded Books
 
@@ -59,6 +59,14 @@ Total Books Downloaded: 7/100
    - Author: William Shakespeare
    - Release Date: January 1, 1994 [eBook #100]
    - Last Updated: January 18, 2024
+   - Language: English
+   - Download Date: February 19, 2025
+   - Format: Plain Text UTF-8
+
+8. A Doll's House by Henrik Ibsen
+   - Author: Henrik Ibsen
+   - Release Date: March 1, 2001 [eBook #2542]
+   - Last Updated: March 27, 2024
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
