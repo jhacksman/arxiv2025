@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 41/100
+Total Books Downloaded: 42/100
 
 ## Downloaded Books
 
@@ -330,6 +330,14 @@ Total Books Downloaded: 41/100
 41. Heart of Darkness by Joseph Conrad
     - Author: Joseph Conrad
     - Release Date: February 1, 1995 [eBook #219]
+    - Last Updated: February 6, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+42. Thus Spake Zarathustra by Friedrich Wilhelm Nietzsche
+    - Author: Friedrich Wilhelm Nietzsche
+    - Release Date: June 1, 1999 [eBook #1998]
     - Last Updated: February 6, 2024
     - Language: English
     - Download Date: February 19, 2025
