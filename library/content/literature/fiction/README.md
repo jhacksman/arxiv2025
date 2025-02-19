@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 70/100
+Total Books Downloaded: 71/100
 
 ## Downloaded Books
 
@@ -562,6 +562,14 @@ Total Books Downloaded: 70/100
 70. Tractatus Logico-Philosophicus by Ludwig Wittgenstein
     - Author: Ludwig Wittgenstein
     - Release Date: October 22, 2010 [eBook #5740]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+71. Ponies past and present by Sir Walter Gilbey
+    - Author: Sir Walter Gilbey
+    - Release Date: February 1, 2024 [eBook #75401]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
