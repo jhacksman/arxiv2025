@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 38/100
+Total Books Downloaded: 39/100
 
 ## Downloaded Books
 
@@ -307,6 +307,14 @@ Total Books Downloaded: 38/100
     - Author: Charlotte Brontë
     - Release Date: April 1, 1998 [eBook #1260]
     - Last Updated: February 3, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+39. The History of the Peloponnesian War by Thucydides
+    - Author: Thucydides
+    - Release Date: March 1, 2004 [eBook #7142]
+    - Last Updated: January 25, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
