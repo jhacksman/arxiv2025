@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 92/100
+Total Books Downloaded: 93/100
 
 ## Downloaded Books
 
@@ -738,6 +738,14 @@ Total Books Downloaded: 92/100
 92. Meditations by Emperor of Rome Marcus Aurelius
     - Author: Marcus Aurelius
     - Release Date: December 1, 2000 [eBook #2680]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+93. Candide by Voltaire
+    - Author: Voltaire
+    - Release Date: November 27, 2006 [eBook #19942]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
