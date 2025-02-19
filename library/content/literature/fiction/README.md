@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 18/100
+Total Books Downloaded: 19/100
 
 ## Downloaded Books
 
@@ -147,6 +147,14 @@ Total Books Downloaded: 18/100
     - Author: Robert Louis Stevenson
     - Release Date: June 27, 2008 [eBook #43]
     - Last Updated: November 9, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+19. The Yellow Wallpaper by Charlotte Perkins Gilman
+    - Author: Charlotte Perkins Gilman
+    - Release Date: November 1, 1999 [eBook #1952]
+    - Last Updated: August 31, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
