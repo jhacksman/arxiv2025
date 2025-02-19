@@ -9,7 +9,10 @@ from .downloader import ContentDownloader
 from .indexer import ContentIndexer
 from .categorize import TextCategorizer
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
 logger = logging.getLogger(__name__)
 
 class PopularBooksProcessor:
@@ -45,6 +48,8 @@ class PopularBooksProcessor:
     def process_popular_books(self, limit: int = 100):
         """Process and download the most popular books."""
         logger.info("Starting popular books processing")
+        logger.info(f"Will download up to {limit} most popular books")
+        logger.info("Note: This process includes rate limiting (2s between requests)")
         
         # Get catalog data
         metadata_list = self.catalog.sync()

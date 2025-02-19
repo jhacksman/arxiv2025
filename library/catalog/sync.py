@@ -28,9 +28,15 @@ class GutenbergCatalog:
         response = requests.get(url, stream=True)
         response.raise_for_status()
         
+        total_size = int(response.headers.get('content-length', 0))
+        downloaded = 0
         with open(local_path, 'wb') as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
+                downloaded += len(chunk)
+                if total_size:
+                    progress = (downloaded / total_size) * 100
+                    logger.info(f"Download progress: {progress:.1f}%")
                 time.sleep(0.1)  # Rate limiting within chunks
         
         return local_path
@@ -99,6 +105,7 @@ class GutenbergCatalog:
     def sync(self) -> List[Dict]:
         """Perform a full catalog sync."""
         logger.info(f'Starting catalog sync at {datetime.now()}')
+        logger.info('This may take a few minutes due to rate limiting (2s between requests)')
         
         try:
             catalog_file = self.fetch_rdf_catalog()
