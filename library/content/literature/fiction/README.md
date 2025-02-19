@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 46/100
+Total Books Downloaded: 47/100
 
 ## Downloaded Books
 
@@ -370,6 +370,14 @@ Total Books Downloaded: 46/100
 46. Noli Me Tangere by José Rizal
     - Author: José Rizal
     - Release Date: December 22, 2006 [eBook #20228]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+47. The Reign of Greed by José Rizal
+    - Author: José Rizal
+    - Release Date: January 12, 2004 [eBook #10676]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
