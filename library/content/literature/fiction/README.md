@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 8/100
+Total Books Downloaded: 9/100
 
 ## Downloaded Books
 
@@ -67,6 +67,14 @@ Total Books Downloaded: 8/100
    - Author: Henrik Ibsen
    - Release Date: March 1, 2001 [eBook #2542]
    - Last Updated: March 27, 2024
+   - Language: English
+   - Download Date: February 19, 2025
+   - Format: Plain Text UTF-8
+
+9. The Great Gatsby by F. Scott Fitzgerald
+   - Author: F. Scott Fitzgerald
+   - Release Date: January 17, 2021 [eBook #64317]
+   - Last Updated: January 26, 2025
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
