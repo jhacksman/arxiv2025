@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 77/100
+Total Books Downloaded: 78/100
 
 ## Downloaded Books
 
@@ -618,6 +618,14 @@ Total Books Downloaded: 77/100
 77. A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens
     - Author: Charles Dickens
     - Release Date: December 1, 1996 [eBook #46]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+78. The Confessions of St. Augustine by Bishop of Hippo Saint Augustine
+    - Author: Bishop of Hippo Saint Augustine
+    - Release Date: August 1, 2002 [eBook #3296]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
