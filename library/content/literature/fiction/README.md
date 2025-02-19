@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 13/100
+Total Books Downloaded: 14/100
 
 ## Downloaded Books
 
@@ -107,6 +107,14 @@ Total Books Downloaded: 13/100
     - Author: Oscar Wilde
     - Release Date: October 1, 1994 [eBook #174]
     - Last Updated: September 18, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+14. The Importance of Being Earnest by Oscar Wilde
+    - Author: Oscar Wilde
+    - Release Date: March 1, 1997 [eBook #844]
+    - Last Updated: February 13, 2021
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
