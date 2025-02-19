@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 86/100
+Total Books Downloaded: 87/100
 
 ## Downloaded Books
 
@@ -692,5 +692,13 @@ Total Books Downloaded: 86/100
     - Release Date: March 8, 2010 [eBook #31552]
     - Last Updated: January 26, 2024
     - Language: Portuguese
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+87. The Tragical History of Doctor Faustus by Christopher Marlowe
+    - Author: Christopher Marlowe
+    - Release Date: November 1, 1996 [eBook #779]
+    - Last Updated: January 26, 2024
+    - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
