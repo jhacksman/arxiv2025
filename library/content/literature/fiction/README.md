@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 61/100
+Total Books Downloaded: 62/100
 
 ## Downloaded Books
 
@@ -492,5 +492,13 @@ Total Books Downloaded: 61/100
     - Release Date: October 1, 2003 [eBook #2650]
     - Last Updated: January 26, 2024
     - Language: French
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+62. Beowulf: An Anglo-Saxon Epic Poem
+    - Author: Anonymous
+    - Release Date: July 19, 2005 [eBook #16328]
+    - Last Updated: January 26, 2024
+    - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
