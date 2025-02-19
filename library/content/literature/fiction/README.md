@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 67/100
+Total Books Downloaded: 68/100
 
 ## Downloaded Books
 
@@ -538,6 +538,14 @@ Total Books Downloaded: 67/100
 67. The Interesting Narrative of the Life of Olaudah Equiano by Olaudah Equiano
     - Author: Olaudah Equiano
     - Release Date: May 7, 2005 [eBook #15399]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+68. The Adventures of Tom Sawyer by Mark Twain
+    - Author: Mark Twain
+    - Release Date: August 20, 2004 [eBook #74]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
