@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 26/100
+Total Books Downloaded: 27/100
 
 ## Downloaded Books
 
@@ -211,6 +211,14 @@ Total Books Downloaded: 26/100
     - Author: Alexandre Dumas and Auguste Maquet
     - Release Date: February 1, 1998 [eBook #1259]
     - Last Updated: December 3, 2022
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+27. The Adventures of Roderick Random by T. Smollett
+    - Author: T. Smollett
+    - Release Date: November 1, 2003 [eBook #4085]
+    - Last Updated: February 15, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
