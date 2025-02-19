@@ -7,29 +7,29 @@
   - [x] Verify bibliographic info
 
 ## Human-AI Collaboration
-- [ ] AI-Assisted Decision Making with Human Learning (2502.13062)
-  - [ ] Add publication date
-  - [ ] Add folder summary
-  - [ ] Verify bibliographic info
+- [x] AI-Assisted Decision Making with Human Learning (2502.13062)
+  - [x] Add publication date
+  - [x] Add folder summary
+  - [x] Verify bibliographic info
 
 ## Knowledge Representation
-- [ ] Agentic Deep Graph Reasoning (2502.13025)
-  - [ ] Add publication date
-  - [ ] Add folder summary
-  - [ ] Verify bibliographic info
+- [x] Agentic Deep Graph Reasoning (2502.13025)
+  - [x] Add publication date
+  - [x] Add folder summary
+  - [x] Verify bibliographic info
 
 ## Domain-Specific Applications
-- [ ] Interactive Agents to Overcome Ambiguity in Software Engineering (2502.13069)
-  - [ ] Add publication date
-  - [ ] Add folder summary
-  - [ ] Verify bibliographic info
-- [ ] Theorem Prover as a Judge for Synthetic Data Generation (2502.13137)
-  - [ ] Add publication date
-  - [ ] Add folder summary
-  - [ ] Verify bibliographic info
+- [x] Interactive Agents to Overcome Ambiguity in Software Engineering (2502.13069)
+  - [x] Add publication date
+  - [x] Add folder summary
+  - [x] Verify bibliographic info
+- [x] Theorem Prover as a Judge for Synthetic Data Generation (2502.13137)
+  - [x] Add publication date
+  - [x] Add folder summary
+  - [x] Verify bibliographic info
 
 ## Overall Tasks
 - [x] Create CATEGORIES.md with overview
-- [ ] Update all folder READMEs with category summaries
-- [ ] Verify all publication dates are prominently displayed
-- [ ] Ensure consistent formatting across all entries
+- [x] Update all folder READMEs with category summaries
+- [x] Verify all publication dates are prominently displayed
+- [x] Ensure consistent formatting across all entries
