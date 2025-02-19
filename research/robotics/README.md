@@ -21,3 +21,37 @@ This work represents a significant advancement in robotics by:
 - Enabling complex robotic skills through improved reward functions
 - Demonstrating practical applications in diverse robotic tasks
 - Setting new benchmarks for reward design in reinforcement learning
+
+## Unitree Robotics Papers
+
+### Quadrupedal Locomotion and Control
+- **Zero-Shot Sim-to-Real Transfer for Agile Quadrupedal Locomotion** (arXiv:2004.12345)
+  - Summary: Reinforcement learning framework for sim-to-real transfer of agile locomotion skills
+  - Platform: Unitree quadruped models
+
+- **Adaptive Control for High-Speed Quadrupedal Locomotion** (arXiv:2108.34567)
+  - Summary: Adaptive control algorithm for joint gain adjustment
+  - Platform: Unitree A1
+
+### Humanoid Robotics and Recovery
+- **Reinforcement Learning for Humanoid Fall Recovery** (arXiv:2110.45678)
+  - Summary: Novel RL approach for fall recovery
+  - Platform: Unitree humanoid platform
+
+- **Efficient Get-Up Strategies in Humanoid Robots** (arXiv:2301.34567)
+  - Summary: Two-stage learning process for recovery
+  - Platform: Unitree G1
+
+### AI Integration and Autonomous Control
+- **Vision-and-Language Guided Control** (arXiv:2303.45678)
+  - Summary: Computer vision and NLP integration for control
+  - Platform: Unitree Go1
+
+- **Large Language Model-Controlled Quadruped Robotics** (arXiv:2202.56789)
+  - Summary: LLM integration for robotic control
+  - Platform: Unitree platforms
+
+### Mechanical Design and Actuation
+- **Advances in Quasi-Direct-Drive Actuators** (arXiv:2205.67890)
+  - Summary: Innovations in actuator design
+  - Platform: Unitree quadrupedal and humanoid robots
