@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 88/100
+Total Books Downloaded: 89/100
 
 ## Downloaded Books
 
@@ -706,6 +706,14 @@ Total Books Downloaded: 88/100
 88. Carmilla by Joseph Sheridan Le Fanu
     - Author: Joseph Sheridan Le Fanu
     - Release Date: October 1, 2003 [eBook #10007]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+89. The divine comedy by Dante Alighieri
+    - Author: Dante Alighieri
+    - Release Date: August 1, 2003 [eBook #8800]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
