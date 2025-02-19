@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 99/100
+Total Books Downloaded: 100/100
 
 ## Downloaded Books
 
@@ -794,6 +794,14 @@ Total Books Downloaded: 99/100
 99. The Problems of Philosophy by Bertrand Russell
     - Author: Bertrand Russell
     - Release Date: May 1, 2004 [eBook #5827]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+100. The Time Machine by H. G. Wells
+    - Author: H. G. Wells
+    - Release Date: October 1, 1992 [eBook #35]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
