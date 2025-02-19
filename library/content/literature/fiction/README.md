@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 57/100
+Total Books Downloaded: 58/100
 
 ## Downloaded Books
 
@@ -460,5 +460,13 @@ Total Books Downloaded: 57/100
     - Release Date: July 27, 2004 [eBook #2000]
     - Last Updated: January 26, 2024
     - Language: Spanish
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+58. Wuthering Heights by Emily Brontë
+    - Author: Emily Brontë
+    - Release Date: December 1, 1996 [eBook #768]
+    - Last Updated: January 26, 2024
+    - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
