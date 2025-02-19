@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 35/100
+Total Books Downloaded: 36/100
 
 ## Downloaded Books
 
@@ -283,6 +283,14 @@ Total Books Downloaded: 35/100
     - Author: W. E. B. Du Bois
     - Release Date: January 29, 2008 [eBook #408]
     - Last Updated: February 6, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+36. The Devil is an Ass by Ben Jonson
+    - Author: Ben Jonson
+    - Release Date: November 3, 2015 [eBook #50150]
+    - Last Updated: February 2, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
