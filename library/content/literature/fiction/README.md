@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 60/100
+Total Books Downloaded: 61/100
 
 ## Downloaded Books
 
@@ -484,5 +484,13 @@ Total Books Downloaded: 60/100
     - Release Date: June 22, 2008 [eBook #135]
     - Last Updated: January 26, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+61. Du côté de chez Swann by Marcel Proust
+    - Author: Marcel Proust
+    - Release Date: October 1, 2003 [eBook #2650]
+    - Last Updated: January 26, 2024
+    - Language: French
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
