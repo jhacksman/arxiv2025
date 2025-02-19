@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 27/100
+Total Books Downloaded: 28/100
 
 ## Downloaded Books
 
@@ -219,6 +219,14 @@ Total Books Downloaded: 27/100
     - Author: T. Smollett
     - Release Date: November 1, 2003 [eBook #4085]
     - Last Updated: February 15, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+28. My Life — Volume 1 by Richard Wagner
+    - Author: Richard Wagner
+    - Release Date: February 1, 2004 [eBook #5197]
+    - Last Updated: January 1, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
