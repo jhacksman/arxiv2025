@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 73/100
+Total Books Downloaded: 74/100
 
 ## Downloaded Books
 
@@ -586,6 +586,14 @@ Total Books Downloaded: 73/100
 73. The boys of Columbia High on the diamond by Graham B. Forbes
     - Author: Graham B. Forbes
     - Release Date: February 1, 2024 [eBook #75400]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+74. The Art of War by Sun Tzu
+    - Author: Sun Tzu
+    - Release Date: May 1, 1994 [eBook #132]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
