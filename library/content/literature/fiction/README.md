@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 28/100
+Total Books Downloaded: 29/100
 
 ## Downloaded Books
 
@@ -227,6 +227,14 @@ Total Books Downloaded: 28/100
     - Author: Richard Wagner
     - Release Date: February 1, 2004 [eBook #5197]
     - Last Updated: January 1, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+29. Dracula by Bram Stoker
+    - Author: Bram Stoker
+    - Release Date: August 16, 2013 [eBook #345]
+    - Last Updated: February 8, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
