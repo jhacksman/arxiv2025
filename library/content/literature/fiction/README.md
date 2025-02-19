@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 83/100
+Total Books Downloaded: 84/100
 
 ## Downloaded Books
 
@@ -666,6 +666,14 @@ Total Books Downloaded: 83/100
 83. The Legend of Sleepy Hollow by Washington Irving
     - Author: Washington Irving
     - Release Date: November 1, 1992 [eBook #41]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+84. Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley
+    - Author: Mary Wollstonecraft Shelley
+    - Release Date: January 1, 2013 [eBook #42324]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
