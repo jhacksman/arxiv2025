@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 74/100
+Total Books Downloaded: 75/100
 
 ## Downloaded Books
 
@@ -594,6 +594,14 @@ Total Books Downloaded: 74/100
 74. The Art of War by Sun Tzu
     - Author: Sun Tzu
     - Release Date: May 1, 1994 [eBook #132]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+75. Anne of Green Gables by L. M. Montgomery
+    - Author: L. M. Montgomery
+    - Release Date: June 1, 2008 [eBook #45]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
