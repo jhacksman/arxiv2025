@@ -27,3 +27,11 @@ This directory contains manually downloaded books from Project Gutenberg's top 1
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
+
+4. Romeo and Juliet by William Shakespeare
+   - Author: William Shakespeare
+   - Release Date: November 1, 1998 [eBook #1513]
+   - Last Updated: June 19, 2024
+   - Language: English
+   - Download Date: February 19, 2025
+   - Format: Plain Text UTF-8
