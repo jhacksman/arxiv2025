@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 82/100
+Total Books Downloaded: 83/100
 
 ## Downloaded Books
 
@@ -658,6 +658,14 @@ Total Books Downloaded: 82/100
 82. How the Other Half Lives: Studies Among the Tenements of New York by Jacob A. Riis
     - Author: Jacob A. Riis
     - Release Date: April 26, 2014 [eBook #45502]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+83. The Legend of Sleepy Hollow by Washington Irving
+    - Author: Washington Irving
+    - Release Date: November 1, 1992 [eBook #41]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
