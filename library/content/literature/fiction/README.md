@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 94/100
+Total Books Downloaded: 95/100
 
 ## Downloaded Books
 
@@ -754,6 +754,14 @@ Total Books Downloaded: 94/100
 94. Little Women by Louisa May Alcott
     - Author: Louisa May Alcott
     - Release Date: May 1, 1996 [eBook #514]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+95. Considerations on Representative Government by John Stuart Mill
+    - Author: John Stuart Mill
+    - Release Date: May 1, 2004 [eBook #5669]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
