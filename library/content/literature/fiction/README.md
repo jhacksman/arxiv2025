@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 25/100
+Total Books Downloaded: 26/100
 
 ## Downloaded Books
 
@@ -203,6 +203,14 @@ Total Books Downloaded: 25/100
     - Author: Henry Fielding
     - Release Date: March 1, 2004 [eBook #6593]
     - Last Updated: January 15, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+26. Twenty Years After by Alexandre Dumas and Auguste Maquet
+    - Author: Alexandre Dumas and Auguste Maquet
+    - Release Date: February 1, 1998 [eBook #1259]
+    - Last Updated: December 3, 2022
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
