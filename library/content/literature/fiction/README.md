@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 21/100
+Total Books Downloaded: 22/100
 
 ## Downloaded Books
 
@@ -171,6 +171,14 @@ Total Books Downloaded: 21/100
     - Author: T. Smollett
     - Release Date: September 9, 2004 [eBook #6761]
     - Last Updated: October 30, 2022
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+22. The Scarlet Letter by Nathaniel Hawthorne
+    - Author: Nathaniel Hawthorne
+    - Release Date: May 5, 2008 [eBook #25344]
+    - Last Updated: October 19, 2021
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
