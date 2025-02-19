@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 96/100
+Total Books Downloaded: 97/100
 
 ## Downloaded Books
 
@@ -772,5 +772,13 @@ Total Books Downloaded: 96/100
     - Release Date: July 1, 2008 [eBook #244]
     - Last Updated: January 26, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+97. Josefine Mutzenbacher by Felix Salten
+    - Author: Felix Salten
+    - Release Date: February 1, 2010 [eBook #31284]
+    - Last Updated: January 26, 2024
+    - Language: German
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
