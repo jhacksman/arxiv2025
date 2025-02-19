@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 72/100
+Total Books Downloaded: 73/100
 
 ## Downloaded Books
 
@@ -578,6 +578,14 @@ Total Books Downloaded: 72/100
 72. Beyond Good and Evil by Friedrich Wilhelm Nietzsche
     - Author: Friedrich Wilhelm Nietzsche
     - Release Date: August 7, 2003 [eBook #4363]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+73. The boys of Columbia High on the diamond by Graham B. Forbes
+    - Author: Graham B. Forbes
+    - Release Date: February 1, 2024 [eBook #75400]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
