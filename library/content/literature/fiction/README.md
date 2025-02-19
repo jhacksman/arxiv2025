@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 97/100
+Total Books Downloaded: 98/100
 
 ## Downloaded Books
 
@@ -780,5 +780,13 @@ Total Books Downloaded: 97/100
     - Release Date: February 1, 2010 [eBook #31284]
     - Last Updated: January 26, 2024
     - Language: German
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+98. Le Morte d'Arthur: Volume 1 by Sir Thomas Malory
+    - Author: Sir Thomas Malory
+    - Release Date: March 1, 1994 [eBook #1251]
+    - Last Updated: January 26, 2024
+    - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
