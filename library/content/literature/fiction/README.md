@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 23/100
+Total Books Downloaded: 24/100
 
 ## Downloaded Books
 
@@ -187,6 +187,14 @@ Total Books Downloaded: 23/100
     - Author: T. Smollett
     - Release Date: April 1, 2000 [eBook #2160]
     - Last Updated: January 27, 2021
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+24. Adventures of Huckleberry Finn by Mark Twain
+    - Author: Mark Twain
+    - Release Date: June 29, 2004 [eBook #76]
+    - Last Updated: February 7, 2025
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
