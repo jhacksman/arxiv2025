@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 90/100
+Total Books Downloaded: 91/100
 
 ## Downloaded Books
 
@@ -722,6 +722,14 @@ Total Books Downloaded: 90/100
 90. Hamlet, Prince of Denmark by William Shakespeare
     - Author: William Shakespeare
     - Release Date: January 1, 1999 [eBook #27761]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+91. Don Quixote by Miguel de Cervantes Saavedra
+    - Author: Miguel de Cervantes Saavedra
+    - Release Date: July 27, 1997 [eBook #996]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
