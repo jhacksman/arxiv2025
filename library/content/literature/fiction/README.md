@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 68/100
+Total Books Downloaded: 69/100
 
 ## Downloaded Books
 
@@ -548,5 +548,13 @@ Total Books Downloaded: 68/100
     - Release Date: August 20, 2004 [eBook #74]
     - Last Updated: January 26, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+69. Florante at Laura by Francisco Balagtas
+    - Author: Francisco Balagtas
+    - Release Date: May 12, 2005 [eBook #15845]
+    - Last Updated: January 26, 2024
+    - Language: Tagalog
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
