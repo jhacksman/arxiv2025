@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 31/100
+Total Books Downloaded: 32/100
 
 ## Downloaded Books
 
@@ -251,6 +251,14 @@ Total Books Downloaded: 31/100
     - Author: Franz Kafka
     - Release Date: August 16, 2005 [eBook #5200]
     - Last Updated: February 10, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+32. The Prince by Niccolò Machiavelli
+    - Author: Niccolò Machiavelli
+    - Release Date: February 11, 2006 [eBook #1232]
+    - Last Updated: February 4, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
