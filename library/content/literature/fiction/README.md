@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 15/100
+Total Books Downloaded: 16/100
 
 ## Downloaded Books
 
@@ -123,6 +123,14 @@ Total Books Downloaded: 15/100
     - Author: L. M. Montgomery
     - Release Date: May 3, 2022 [eBook #67979]
     - Last Updated: July 14, 2023
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+16. The Enchanted April by Elizabeth Von Arnim
+    - Author: Elizabeth Von Arnim
+    - Release Date: July 29, 2005 [eBook #16389]
+    - Last Updated: June 25, 2023
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
