@@ -2,6 +2,9 @@
 
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
+## Progress
+Total Books Downloaded: 7/100
+
 ## Downloaded Books
 
 1. Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley
@@ -48,6 +51,14 @@ This directory contains manually downloaded books from Project Gutenberg's top 1
    - Author: Lewis Carroll
    - Release Date: June 27, 2008 [eBook #11]
    - Last Updated: November 10, 2024
+   - Language: English
+   - Download Date: February 19, 2025
+   - Format: Plain Text UTF-8
+
+7. The Complete Works of William Shakespeare by William Shakespeare
+   - Author: William Shakespeare
+   - Release Date: January 1, 1994 [eBook #100]
+   - Last Updated: January 18, 2024
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
