@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 34/100
+Total Books Downloaded: 35/100
 
 ## Downloaded Books
 
@@ -275,6 +275,14 @@ Total Books Downloaded: 34/100
     - Author: Charles Dickens
     - Release Date: January 1, 1994 [eBook #98]
     - Last Updated: February 16, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+35. The Souls of Black Folk by W. E. B. Du Bois
+    - Author: W. E. B. Du Bois
+    - Release Date: January 29, 2008 [eBook #408]
+    - Last Updated: February 6, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
