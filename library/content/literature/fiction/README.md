@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 37/100
+Total Books Downloaded: 38/100
 
 ## Downloaded Books
 
@@ -299,6 +299,14 @@ Total Books Downloaded: 37/100
     - Author: Thomas Hobbes
     - Release Date: May 1, 2002 [eBook #3207]
     - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+38. Jane Eyre: An Autobiography by Charlotte Brontë
+    - Author: Charlotte Brontë
+    - Release Date: April 1, 1998 [eBook #1260]
+    - Last Updated: February 3, 2024
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
