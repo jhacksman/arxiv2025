@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 85/100
+Total Books Downloaded: 86/100
 
 ## Downloaded Books
 
@@ -684,5 +684,13 @@ Total Books Downloaded: 85/100
     - Release Date: May 1, 1993 [eBook #55]
     - Last Updated: January 26, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+86. Novo dicionário da língua portuguesa by Cândido de Figueiredo
+    - Author: Cândido de Figueiredo
+    - Release Date: March 8, 2010 [eBook #31552]
+    - Last Updated: January 26, 2024
+    - Language: Portuguese
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
