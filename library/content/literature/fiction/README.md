@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 56/100
+Total Books Downloaded: 57/100
 
 ## Downloaded Books
 
@@ -452,5 +452,13 @@ Total Books Downloaded: 56/100
     - Release Date: October 1, 2001 [eBook #4300]
     - Last Updated: January 26, 2024
     - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+57. Don Quijote by Miguel de Cervantes Saavedra
+    - Author: Miguel de Cervantes Saavedra
+    - Release Date: July 27, 2004 [eBook #2000]
+    - Last Updated: January 26, 2024
+    - Language: Spanish
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
