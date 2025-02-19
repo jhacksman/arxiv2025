@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 59/100
+Total Books Downloaded: 60/100
 
 ## Downloaded Books
 
@@ -474,6 +474,14 @@ Total Books Downloaded: 59/100
 59. Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm
     - Authors: Jacob Grimm, Wilhelm Grimm
     - Release Date: April 1, 2001 [eBook #2591]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+60. Les Misérables by Victor Hugo
+    - Author: Victor Hugo
+    - Release Date: June 22, 2008 [eBook #135]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
