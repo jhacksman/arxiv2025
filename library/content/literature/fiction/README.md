@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 63/100
+Total Books Downloaded: 64/100
 
 ## Downloaded Books
 
@@ -506,6 +506,14 @@ Total Books Downloaded: 63/100
 63. Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau
     - Author: Henry David Thoreau
     - Release Date: January 1, 1995 [eBook #205]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+64. Dubliners by James Joyce
+    - Author: James Joyce
+    - Release Date: September 1, 2001 [eBook #2814]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
