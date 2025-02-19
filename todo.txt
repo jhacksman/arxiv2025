@@ -1,0 +1,77 @@
+# Papers to Add
+
+## Jim Fan and EUREKA
+- [x] Eureka: Human-Level Reward Design via Coding Large Language Models (arXiv:2310.12931)
+  - Authors: Yecheng Jason Ma, William Liang, Guanzhi Wang, et al.
+  - Category: Robotics/AI
+  - Published: October 2023, revised April 2024
+
+## Ilya Sutskever's Recent Work
+- [x] GPT-4 System Card (arXiv:2410.21276)
+  - Category: Language Models
+  - Published: October 2024
+- [x] OpenAI o1 System Card (arXiv:2412.16720)
+  - Category: Language Models
+  - Published: December 2024
+- [x] Scaling and Evaluating Sparse Autoencoders (arXiv:2312.09390)
+  - Category: Machine Learning
+  - Published: December 2023
+
+## Andrej Karpathy's Recommendations
+- [ ] Transformers from Scratch
+  - Category: Deep Learning
+  - Type: Educational Resource
+- [ ] Neural Networks: Zero to Hero
+  - Category: Deep Learning
+  - Type: Educational Resource
+- [ ] Building GPT from Scratch
+  - Category: Language Models
+  - Type: Educational Resource
+
+## Jim Fan's Recent Work
+- [ ] Speculative Ensemble: Fast Large Language Model Ensemble via Speculation (arXiv:2502.01662)
+  - Category: Machine Learning/AI
+  - Published: February 2025
+- [ ] GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning (arXiv:2410.02203)
+  - Category: AI/Machine Learning
+  - Published: October 2024
+
+## Sutskever's Recommended Papers (All Added)
+- [x] Attention Is All You Need (arXiv:1706.03762)
+  - Category: Machine Learning/NLP
+  - Published: June 2017
+  - Location: research/foundations/transformers/
+- [x] Neural Machine Translation by Jointly Learning to Align and Translate (arXiv:1409.0473)
+  - Category: Machine Learning/NLP
+  - Published: September 2014
+  - Location: research/foundations/transformers/
+- [x] ImageNet Classification with Deep CNNs (2012)
+  - Category: Computer Vision
+  - Location: research/foundations/computer_vision/
+- [x] Deep Residual Learning for Image Recognition (2015)
+  - Category: Computer Vision
+  - Location: research/foundations/computer_vision/
+- [x] Neural Turing Machines (2014)
+  - Category: Neural Architecture
+  - Location: research/foundations/neural_architectures/
+- [x] Pointer Networks (2015)
+  - Category: Neural Architecture
+  - Location: research/foundations/neural_architectures/
+- [x] Deep Speech 2 (2015)
+  - Category: Speech Recognition
+  - Location: research/foundations/speech_recognition/
+- [x] Scaling Laws for Neural Language Models (2020)
+  - Category: Language Models
+  - Location: research/foundations/scaling_laws/
+- [x] Variational Lossy Autoencoder (2017)
+  - Category: Machine Learning
+  - Location: research/foundations/autoencoders/
+- [x] Relational Recurrent Neural Networks (2018)
+  - Category: Neural Networks
+  - Location: research/foundations/relational_networks/
+- [x] Multi-Scale Context Aggregation by Dilated Convolutions (2015)
+  - Category: Computer Vision
+  - Location: research/foundations/convolutions/
+- [x] Neural Message Passing for Quantum Chemistry (2017)
+  - Category: Graph Neural Networks
+  - Location: research/foundations/graph_neural_networks/
