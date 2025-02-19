@@ -7,6 +7,11 @@
 - Historical treatises and documents
 - Social and cultural documentation
 
+### Specialized Texts
+- Subject-specific works
+- Technical and specialized literature
+- Niche topics
+
 ### Classics
 - Historical works of significant literary merit
 - Works that have stood the test of time
