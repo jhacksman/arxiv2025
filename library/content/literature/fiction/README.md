@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 54/100
+Total Books Downloaded: 55/100
 
 ## Downloaded Books
 
@@ -434,6 +434,14 @@ Total Books Downloaded: 54/100
 54. The science of beauty, as developed in nature and applied in art by David Ramsay Hay
     - Author: David Ramsay Hay
     - Release Date: November 18, 2024 [eBook #75399]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+55. Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass
+    - Author: Frederick Douglass
+    - Release Date: January 10, 2006 [eBook #23]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
