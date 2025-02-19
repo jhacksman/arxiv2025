@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 9/100
+Total Books Downloaded: 10/100
 
 ## Downloaded Books
 
@@ -78,3 +78,11 @@ Total Books Downloaded: 9/100
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
+
+10. Middlemarch by George Eliot
+    - Author: George Eliot
+    - Release Date: July 1, 1994 [eBook #145]
+    - Last Updated: June 7, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
