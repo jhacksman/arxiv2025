@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 11/100
+Total Books Downloaded: 12/100
 
 ## Downloaded Books
 
@@ -91,6 +91,14 @@ Total Books Downloaded: 11/100
     - Author: E. M. Forster
     - Release Date: May 1, 2001 [eBook #2641]
     - Last Updated: May 4, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+12. Little Women by Louisa May Alcott
+    - Author: Louisa May Alcott
+    - Release Date: August 16, 2011 [eBook #37106]
+    - Last Updated: May 22, 2023
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
