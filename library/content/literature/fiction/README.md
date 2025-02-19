@@ -19,3 +19,11 @@ This directory contains manually downloaded books from Project Gutenberg's top 1
    - Language: English
    - Download Date: February 19, 2025
    - Format: Plain Text UTF-8
+
+3. Moby Dick; Or, The Whale by Herman Melville
+   - Author: Herman Melville
+   - Release Date: July 1, 2001 [eBook #2701]
+   - Last Updated: January 19, 2025
+   - Language: English
+   - Download Date: February 19, 2025
+   - Format: Plain Text UTF-8
