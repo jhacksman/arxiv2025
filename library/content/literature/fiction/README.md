@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 78/100
+Total Books Downloaded: 79/100
 
 ## Downloaded Books
 
@@ -626,6 +626,14 @@ Total Books Downloaded: 78/100
 78. The Confessions of St. Augustine by Bishop of Hippo Saint Augustine
     - Author: Bishop of Hippo Saint Augustine
     - Release Date: August 1, 2002 [eBook #3296]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+79. Plays by Susan Glaspell
+    - Author: Susan Glaspell
+    - Release Date: January 1, 2004 [eBook #10623]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
