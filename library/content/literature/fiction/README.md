@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 76/100
+Total Books Downloaded: 77/100
 
 ## Downloaded Books
 
@@ -610,6 +610,14 @@ Total Books Downloaded: 76/100
 76. Was I right? by Mrs. O. F. Walton
     - Author: Mrs. O. F. Walton
     - Release Date: February 1, 2024 [eBook #75393]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+77. A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens
+    - Author: Charles Dickens
+    - Release Date: December 1, 1996 [eBook #46]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
