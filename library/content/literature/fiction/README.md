@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 95/100
+Total Books Downloaded: 96/100
 
 ## Downloaded Books
 
@@ -762,6 +762,14 @@ Total Books Downloaded: 95/100
 95. Considerations on Representative Government by John Stuart Mill
     - Author: John Stuart Mill
     - Release Date: May 1, 2004 [eBook #5669]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+96. A Study in Scarlet by Arthur Conan Doyle
+    - Author: Arthur Conan Doyle
+    - Release Date: July 1, 2008 [eBook #244]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
