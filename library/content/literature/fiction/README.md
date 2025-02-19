@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 93/100
+Total Books Downloaded: 94/100
 
 ## Downloaded Books
 
@@ -746,6 +746,14 @@ Total Books Downloaded: 93/100
 93. Candide by Voltaire
     - Author: Voltaire
     - Release Date: November 27, 2006 [eBook #19942]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+94. Little Women by Louisa May Alcott
+    - Author: Louisa May Alcott
+    - Release Date: May 1, 1996 [eBook #514]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
