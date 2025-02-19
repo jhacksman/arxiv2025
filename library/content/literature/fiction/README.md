@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 19/100
+Total Books Downloaded: 20/100
 
 ## Downloaded Books
 
@@ -155,6 +155,14 @@ Total Books Downloaded: 19/100
     - Author: Charlotte Perkins Gilman
     - Release Date: November 1, 1999 [eBook #1952]
     - Last Updated: August 31, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+20. Cranford by Elizabeth Cleghorn Gaskell
+    - Author: Elizabeth Cleghorn Gaskell
+    - Release Date: January 1, 1996 [eBook #394]
+    - Last Updated: October 29, 2022
     - Language: English
     - Download Date: February 19, 2025
     - Format: Plain Text UTF-8
