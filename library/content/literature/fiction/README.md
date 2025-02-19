@@ -3,7 +3,7 @@
 This directory contains manually downloaded books from Project Gutenberg's top 100 list.
 
 ## Progress
-Total Books Downloaded: 53/100
+Total Books Downloaded: 54/100
 
 ## Downloaded Books
 
@@ -426,6 +426,14 @@ Total Books Downloaded: 53/100
 53. The Iliad by Homer
     - Author: Homer
     - Release Date: March 1, 2004 [eBook #6130]
+    - Last Updated: January 26, 2024
+    - Language: English
+    - Download Date: February 19, 2025
+    - Format: Plain Text UTF-8
+
+54. The science of beauty, as developed in nature and applied in art by David Ramsay Hay
+    - Author: David Ramsay Hay
+    - Release Date: November 18, 2024 [eBook #75399]
     - Last Updated: January 26, 2024
     - Language: English
     - Download Date: February 19, 2025
