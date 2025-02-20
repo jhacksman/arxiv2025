@@ -2,14 +2,14 @@
 
 ## Papers
 
-### Vision-and-Language Guided Control for Autonomous Quadrupeds
-- **arXiv**: [2303.45678](https://arxiv.org/abs/2303.45678)
+### CognitiveDog: Vision-Language Control
+- **File**: [cognitive_dog.pdf](cognitive_dog.pdf)
 - **Category**: Robotics/AI
-- **Summary**: Computer vision and NLP integration for high-level command execution
+- **Summary**: Multimodal model for natural language control of quadrupeds
 - **Platform**: Unitree Go1
 
-### Large Language Model-Controlled Quadruped Robotics
-- **arXiv**: [2202.56789](https://arxiv.org/abs/2202.56789)
+### Jailbreaking LLM-Controlled Robots
+- **File**: [jailbreaking.pdf](jailbreaking.pdf)
 - **Category**: Robotics/AI
-- **Summary**: LLM integration for robotic control with security considerations
-- **Platform**: Unitree platforms
+- **Summary**: Security analysis of LLM-controlled robots
+- **Platform**: Unitree Go2

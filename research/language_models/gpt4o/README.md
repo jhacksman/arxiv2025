@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: GPT-4o System Card
 - **Authors**: OpenAI (including Ilya Sutskever and many others)
-- **arXiv**: [2410.21276](https://arxiv.org/abs/2410.21276)
+- **File**: [gpt4o_system_card.pdf](gpt4o_system_card.pdf)
 - **Published**: October 25, 2024
 - **Category**: Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
 
@@ -24,7 +24,7 @@ This paper describes GPT-4o, an autoregressive omni model that processes and gen
 @article{openai2024gpt4o,
   title={GPT-4o System Card},
   author={OpenAI and others},
-  journal={arXiv preprint arXiv:2410.21276},
-  year={2024}
+  year={2024},
+  note={Available in repository as gpt4o_system_card.pdf}
 }
 ```

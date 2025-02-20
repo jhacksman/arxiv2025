@@ -19,5 +19,5 @@ A detailed, line-by-line implementation of the Transformer architecture from the
 This resource has become a standard reference for understanding and implementing Transformer models, used by researchers and practitioners worldwide.
 
 ## Additional Resources
-- Original Paper: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+- Original Paper: [attention_is_all_you_need.pdf](../../foundations/transformers/attention_is_all_you_need.pdf)
 - GitHub Repository: [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)

@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: Speculative Ensemble: Fast Large Language Model Ensemble via Speculation
 - **Authors**: Jim Fan et al.
-- **arXiv**: [2502.01662](https://arxiv.org/abs/2502.01662)
+- **File**: [speculative_ensemble.pdf](speculative_ensemble.pdf)
 - **Published**: February 2025
 - **Category**: Machine Learning, AI
 

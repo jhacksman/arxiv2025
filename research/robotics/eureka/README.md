@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: Eureka: Human-Level Reward Design via Coding Large Language Models
 - **Authors**: Yecheng Jason Ma, William Liang, Guanzhi Wang, et al.
-- **arXiv**: [2310.12931](https://arxiv.org/abs/2310.12931)
+- **File**: [eureka.pdf](./eureka.pdf)
 - **Published**: October 19, 2023 (v1)
 - **Last Revised**: April 30, 2024 (v2)
 - **Category**: Robotics (cs.RO); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
@@ -25,7 +25,7 @@ This paper introduces EUREKA, a novel approach to reward design in robotics usin
 @article{ma2023eureka,
   title={Eureka: Human-Level Reward Design via Coding Large Language Models},
   author={Ma, Yecheng Jason and Liang, William and Wang, Guanzhi and others},
-  journal={arXiv preprint arXiv:2310.12931},
-  year={2023}
+  year={2023},
+  note={Available in repository as eureka.pdf}
 }
 ```

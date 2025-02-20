@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: OpenAI o1 System Card
 - **Authors**: OpenAI (including Ilya Sutskever and many others)
-- **arXiv**: [2412.16720](https://arxiv.org/abs/2412.16720)
+- **File**: [o1_system_card.pdf](o1_system_card.pdf)
 - **Published**: December 21, 2024
 - **Category**: Computation and Language (cs.CL); Artificial Intelligence (cs.AI)
 
@@ -24,7 +24,7 @@ This paper describes o1, OpenAI's latest multimodal model that processes and gen
 @article{openai2024o1,
   title={OpenAI o1 System Card},
   author={OpenAI and others},
-  journal={arXiv preprint arXiv:2412.16720},
-  year={2024}
+  year={2024},
+  note={Available in repository as o1_system_card.pdf}
 }
 ```
