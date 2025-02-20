@@ -3,7 +3,7 @@
 ## Papers
 
 ### Learning Humanoid Standing-up Control across Diverse Postures
-- **arXiv**: [2502.08378](https://arxiv.org/abs/2502.08378)
+- **File**: [standing_up.pdf](standing_up.pdf)
 - **Authors**: Tairan He, et al.
 - **Category**: Robotics/Humanoid
 - **Summary**: Novel approach for enabling humanoid robots to learn standing-up control from arbitrary fallen postures.
@@ -14,7 +14,7 @@
   - Robust performance across varied initial conditions
 
 ### SPARK: A Modular Benchmark for Humanoid Robot Safety
-- **arXiv**: [2502.03132](https://arxiv.org/abs/2502.03132)
+- **File**: [spark.pdf](spark.pdf)
 - **Authors**: Tairan He, et al.
 - **Category**: Robotics/Safety
 - **Summary**: Comprehensive benchmark and framework for evaluating humanoid robot safety.
@@ -25,7 +25,7 @@
   - Extensive case studies and experiments
 
 ### Dexterous Safe Control for Humanoids
-- **arXiv**: [2502.02858](https://arxiv.org/abs/2502.02858)
+- **File**: [dexterous_control.pdf](dexterous_control.pdf)
 - **Authors**: Tairan He, et al.
 - **Category**: Robotics/Control
 - **Summary**: Safe control framework for humanoid robots in cluttered environments.
@@ -36,7 +36,7 @@
   - Integration with existing control frameworks
 
 ### ASAP: Aligning Simulation and Real-World Physics
-- **arXiv**: [2502.01143](https://arxiv.org/abs/2502.01143)
+- **File**: [asap.pdf](asap.pdf)
 - **Authors**: Tairan He, et al.
 - **Category**: Robotics/Sim2Real
 - **Summary**: Framework for aligning simulation with real-world dynamics for humanoid skills.

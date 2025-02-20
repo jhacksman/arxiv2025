@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: Scaling and Evaluating Sparse Autoencoders
 - **Authors**: OpenAI (including Ilya Sutskever and others)
-- **arXiv**: [2312.09390](https://arxiv.org/abs/2312.09390)
+- **File**: [sparse_autoencoders.pdf](sparse_autoencoders.pdf)
 - **Published**: December 2023
 - **Category**: Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
 
@@ -24,7 +24,7 @@ This paper investigates the scaling properties of sparse autoencoders and their 
 @article{openai2023sparse,
   title={Scaling and Evaluating Sparse Autoencoders},
   author={OpenAI and others},
-  journal={arXiv preprint arXiv:2312.09390},
-  year={2023}
+  year={2023},
+  note={Available in repository as sparse_autoencoders.pdf}
 }
 ```

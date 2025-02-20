@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: GraphIC: Graph-Based In-Context Example Retrieval for Multi-Step Reasoning
 - **Authors**: Jim Fan et al.
-- **arXiv**: [2410.02203](https://arxiv.org/abs/2410.02203)
+- **File**: [graphic.pdf](graphic.pdf)
 - **Published**: October 2024
 - **Category**: Machine Learning, Graph Neural Networks
 

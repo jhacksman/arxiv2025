@@ -3,7 +3,7 @@
 ## Paper Information
 - **Title**: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
 - **Authors**: DeepSeek-AI, Daya Guo, Dejian Yang, et al.
-- **arXiv**: [2501.12948](https://arxiv.org/abs/2501.12948)
+- **File**: [deepseek_r1.pdf](deepseek_r1.pdf)
 - **Published**: January 22, 2025
 - **Category**: Language Models, Reasoning
 
