@@ -2,25 +2,46 @@
 
 ## Recent Papers
 
-### EUREKA: Human-Level Reward Design via Coding Large Language Models (2023)
-- **Authors**: Yecheng Jason Ma, William Liang, Guanzhi Wang, et al.
-- **arXiv**: [2310.12931](https://arxiv.org/abs/2310.12931)
-- **Category**: Robotics, AI
-- **Published**: October 2023, revised April 2024
-- **Summary**: Introduces a novel approach to reward design in robotics using large language models, achieving human-level performance in specifying complex robotic tasks.
-- **Key Contributions**:
-  - Human-level reward design through LLM code generation
-  - Evolutionary optimization over reward code
-  - Demonstrated success on 29 RL environments
-  - First demonstration of simulated pen spinning with Shadow Hand
-  - Integration with human feedback for safety
+### Learning Humanoid Standing-up Control across Diverse Postures (2025)
+- **Authors**: Tairan He, et al.
+- **arXiv**: [2502.08378](https://arxiv.org/abs/2502.08378)
+- **Category**: Robotics/Humanoid
+- **Summary**: Novel approach for enabling humanoid robots to learn standing-up control from arbitrary fallen postures.
+- **Platform**: Unitree G1
 
-## Impact
-This work represents a significant advancement in robotics by:
-- Bridging the gap between high-level task specification and low-level reward design
-- Enabling complex robotic skills through improved reward functions
-- Demonstrating practical applications in diverse robotic tasks
-- Setting new benchmarks for reward design in reinforcement learning
+### Discovery of Skill Switching Criteria (2025)
+- **Authors**: Yecheng Jason Ma, et al.
+- **arXiv**: [2502.06676](https://arxiv.org/abs/2502.06676)
+- **Category**: Robotics/Locomotion
+- **Summary**: Hierarchical learning framework for multi-skill locomotion in quadrupedal robots.
+- **Platform**: Unitree A1
+
+### SPARK: A Modular Benchmark for Humanoid Robot Safety (2025)
+- **Authors**: Tairan He, et al.
+- **arXiv**: [2502.03132](https://arxiv.org/abs/2502.03132)
+- **Category**: Robotics/Safety
+- **Summary**: Comprehensive benchmark and framework for evaluating humanoid robot safety.
+- **Platform**: Unitree G1
+
+### Dexterous Safe Control for Humanoids (2025)
+- **Authors**: Tairan He, et al.
+- **arXiv**: [2502.02858](https://arxiv.org/abs/2502.02858)
+- **Category**: Robotics/Control
+- **Summary**: Safe control framework for humanoid robots in cluttered environments.
+- **Platform**: Unitree G1
+
+### ASAP: Aligning Simulation and Real-World Physics (2025)
+- **Authors**: Tairan He, et al.
+- **arXiv**: [2502.01143](https://arxiv.org/abs/2502.01143)
+- **Category**: Robotics/Sim2Real
+- **Summary**: Framework for aligning simulation with real-world dynamics for humanoid skills.
+- **Platform**: Unitree G1
+
+## Organization
+Papers are organized by research focus:
+- Humanoid Robotics: Standing up, safety, control
+- Quadrupedal Locomotion: Skill switching, agile movement
+- Simulation to Reality: Physics alignment, transfer learning
 
 ## Unitree Robotics Papers
 
